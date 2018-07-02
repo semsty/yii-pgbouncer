@@ -29,11 +29,5 @@
         "psr-4": {
             "semsty\\pgbouncer\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master",
-            "dev-develop": "develop"
-        }
     }
 }
