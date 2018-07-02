@@ -3,7 +3,6 @@
     "description": "yii pgbouncer connection and schema",
     "keywords": ["yii", "pgbouncer"],
     "type": "project",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Semen Khristy",
